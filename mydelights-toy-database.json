@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Monchhichi Classic Boy",
+    "brand": "Monchhichi",
+    "series": "Original Series",
+    "year": 1974,
+    "image": "https://via.placeholder.com/150?text=Monchhichi+Classic",
+    "msrp": "\u00a51800",
+    "resale": "\u00a315\u2013\u00a325",
+    "rarity": "Common",
+    "notes": "One of the first Monchhichi dolls ever released."
+  },
+  {
+    "name": "Monchhichi Grandma",
+    "brand": "Monchhichi",
+    "series": "Family Series",
+    "year": 1980,
+    "image": "https://via.placeholder.com/150?text=Grandma",
+    "msrp": "\u00a52000",
+    "resale": "\u00a330\u2013\u00a340",
+    "rarity": "Uncommon",
+    "notes": "Wears glasses and a floral dress. Part of the Monchhichi family."
+  },
+  {
+    "name": "Monchhichi Policeman",
+    "brand": "Monchhichi",
+    "series": "Occupation Series",
+    "year": 1983,
+    "image": "https://via.placeholder.com/150?text=Policeman",
+    "msrp": "\u00a52100",
+    "resale": "\u00a325\u2013\u00a335",
+    "rarity": "Rare",
+    "notes": "Special edition uniformed doll with cap."
+  },
+  {
+    "name": "Labubu Pirate",
+    "brand": "Labubu",
+    "series": "The Monsters - Pirates",
+    "year": 2021,
+    "image": "https://via.placeholder.com/150?text=Labubu+Pirate",
+    "msrp": "\u00a569",
+    "resale": "\u00a322\u2013\u00a330",
+    "rarity": "Common",
+    "notes": "Released in Pop Mart's pirate-themed blind box series."
+  },
+  {
+    "name": "Labubu Candy",
+    "brand": "Labubu",
+    "series": "The Monsters - Sweet",
+    "year": 2022,
+    "image": "https://via.placeholder.com/150?text=Candy",
+    "msrp": "\u00a569",
+    "resale": "\u00a318\u2013\u00a325",
+    "rarity": "Common",
+    "notes": "Bright pink colors with lollipop in hand."
+  },
+  {
+    "name": "Labubu Secret Clown",
+    "brand": "Labubu",
+    "series": "The Monsters - Circus",
+    "year": 2023,
+    "image": "https://via.placeholder.com/150?text=Secret+Clown",
+    "msrp": "\u00a569",
+    "resale": "\u00a390\u2013\u00a3120",
+    "rarity": "Secret",
+    "notes": "Extremely rare pull from the circus blind box. Glows in the dark."
+  },
+  {
+    "name": "Monchhichi 40th Anniversary",
+    "brand": "Monchhichi",
+    "series": "Anniversary Editions",
+    "year": 2014,
+    "image": "https://via.placeholder.com/150?text=40th+Anniv",
+    "msrp": "\u00a52500",
+    "resale": "\u00a340\u2013\u00a360",
+    "rarity": "Limited",
+    "notes": "Gold-trimmed clothing and commemorative packaging."
+  },
+  {
+    "name": "Labubu Mermaid",
+    "brand": "Labubu",
+    "series": "The Monsters - Fantasy",
+    "year": 2023,
+    "image": "https://via.placeholder.com/150?text=Mermaid",
+    "msrp": "\u00a569",
+    "resale": "\u00a325\u2013\u00a335",
+    "rarity": "Uncommon",
+    "notes": "Translucent tail and pearl crown."
+  },
+  {
+    "name": "Labubu Elf",
+    "brand": "Labubu",
+    "series": "The Monsters - Fantasy",
+    "year": 2023,
+    "image": "https://via.placeholder.com/150?text=Elf",
+    "msrp": "\u00a569",
+    "resale": "\u00a320\u2013\u00a328",
+    "rarity": "Common",
+    "notes": "Forest-themed with mushroom hat."
+  },
+  {
+    "name": "Monchhichi Sakura Kimono",
+    "brand": "Monchhichi",
+    "series": "Seasonal Japan Exclusive",
+    "year": 2020,
+    "image": "https://via.placeholder.com/150?text=Sakura+Kimono",
+    "msrp": "\u00a52800",
+    "resale": "\u00a335\u2013\u00a350",
+    "rarity": "Limited",
+    "notes": "Released only during cherry blossom season in Japan."
+  }
+]
