@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MyDelights</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+</head>
+<body>
+  <header>
+    <h1>MyDelights</h1>
+    <nav>
+      <button onclick="showTab('collection')">Collection</button>
+      <button onclick="showTab('wishlist')">Wishlist</button>
+      <button onclick="showTab('database')">All Toys</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="collection" class="tab active">
+      <h2>Your Collection</h2>
+      <div id="collectionList"></div>
+    </section>
+
+    <section id="wishlist" class="tab">
+      <h2>Your Wishlist</h2>
+      <div id="wishlistList"></div>
+    </section>
+
+    <section id="database" class="tab">
+      <h2>Toy Database</h2>
+      <div id="databaseList"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
